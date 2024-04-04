@@ -1,2 +1,0 @@
-# mathquestioner
-Give math questions
